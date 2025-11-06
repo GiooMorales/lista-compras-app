@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="novaTarefa">Nova Tarefa</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="nomeTarefa">Digite o nome da tarefa</string>
+    <string name="descricao">Descrição</string>
+    <string name="descricaoTarefa">Digite uma pequena descrição da sua tarefa</string>
+    <string name="excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+</resources>

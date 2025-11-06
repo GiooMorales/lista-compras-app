@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80814317504",
+    "project_id": "lista-55dff",
+    "storage_bucket": "lista-55dff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80814317504:android:1341da45aa4a3d1be27225",
+        "android_client_info": {
+          "package_name": "br.gov.sp.etec.lista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7FoqxFFnoHDn-7IyaOSIWvha4A1q4Fv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
