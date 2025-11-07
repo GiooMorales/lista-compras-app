@@ -2,6 +2,9 @@
 
 Aplicativo Android nativo em Kotlin que permite criar e gerenciar listas de compras sincronizadas com o Firebase Firestore. Foi desenvolvido como exemplo educacional, demonstrando o uso de `RecyclerView`, `Intents` e integração com serviços em nuvem do ecossistema Google.
 
+<img width="320" height="641" alt="image" src="https://github.com/user-attachments/assets/bfcbf6dc-4834-4c05-8d95-1b165fcd8d9a" />
+
+
 ## Visão Geral
 
 - **Plataforma:** Android (minSdk 24, targetSdk 35)
